@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.f2dcb740a79b7fe252be79d0c6082b5f.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.5a14a5f8dbc8ad0ebb8f4cec95f9bc5f.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.e8a530a95f437a20a97115073bb933ac.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.78fc5958b6b6e33d5af1bf6a1e0fbd9f.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.8f9e3a3d4f01eb9ce07aa16ad77af0a1.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Gabriela Kids ",
+  "short_name": "gabrielakidscpo",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Desde 2016 levando conforto e Estilo aos pequenos🤩",
+  "background_color": "#e29dd2",
+  "theme_color": "#ea90bd"
+}
